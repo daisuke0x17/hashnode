@@ -1,5 +1,5 @@
 ---
-title: "Aws Saa-c03 受験記録と勉強方法"
+title: "Aws Saa-c03受験記録と勉強方法"
 datePublished: Sat Feb 07 2026 14:41:03 GMT+0000 (Coordinated Universal Time)
 cuid: cmlcf9cgc001q02l198da322p
 slug: aws-saa-c03
