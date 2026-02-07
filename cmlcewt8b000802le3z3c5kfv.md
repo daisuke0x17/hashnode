@@ -2,7 +2,7 @@
 title: "ブログ移行します"
 datePublished: Sat Feb 07 2026 14:31:18 GMT+0000 (Coordinated Universal Time)
 cuid: cmlcewt8b000802le3z3c5kfv
-slug: 44ow44ot44kw56e76kgm44gx44g44gz
+slug: moving-to-a-new-blog
 
 ---
 
