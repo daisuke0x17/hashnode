@@ -3,6 +3,7 @@ title: "仕組みから学ぶ GitHub Copilot の使い方"
 datePublished: Sat Feb 07 2026 15:35:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmlch7ocb000102l57dil1ns5
 slug: how-to-use-github-copilot-understanding-the-mechanism
+tags: github, copilot
 
 ---
 
