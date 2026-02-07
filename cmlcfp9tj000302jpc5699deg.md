@@ -1,5 +1,5 @@
 ---
-title: "Overleaf で日本語を使えるようにする"
+title: "Overleafで日本語を使えるようにする"
 datePublished: Sat Feb 07 2026 14:53:26 GMT+0000 (Coordinated Universal Time)
 cuid: cmlcfp9tj000302jpc5699deg
 slug: overleaf-setup-japanese-support
